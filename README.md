@@ -24,7 +24,10 @@
 
 <blockquote >
   <h3>  🧑‍💻  Current Status</h3>
-  <p>Embarking on an exciting journey through the ever-changing world of computer science, I've found my passion in problem-solving, armed with knowledge in C++. Now, I'm eager to dive deeper into web development and explore the fascinating world of Flutter. Join me on this adventure!</p>
+  <p>
+Certainly! Here's the revised text with a different phrase:
+
+Setting sail on an exhilarating journey through the dynamic realm of computer science, I've unearthed my passion for problem-solving, armed with expertise in C++. Now, I'm eager to delve deeper into web development and uncover the captivating realm of MERN (MongoDB, Express.js, React.js, Node.js). Join me as we navigate this exciting odyssey together!</p>
 </blockquote>
 
 
