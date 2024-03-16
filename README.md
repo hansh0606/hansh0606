@@ -17,8 +17,7 @@
   </a>
 
    <a href="https://auth.geeksforgeeks.org/user/hanshpat0jk2">
-    <img src="[https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white
-)">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white">
   </a>
 
 </p>
