@@ -38,14 +38,14 @@
   <summary>  <b> 💻 Competencies </b></summary>
   <br>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<b>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<b>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<b>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<b>
-![Toy Language](https://img.shields.io/badge/Toy%20Language-%23CC0000.svg?style=for-the-badge)<b>
-![GCC](https://img.shields.io/badge/GCC-%23666.svg?style=for-the-badge&logo=gnu&logoColor=white)<b>
-![Lex](https://img.shields.io/badge/Lex-%23FF8800.svg?style=for-the-badge)<b>
-![Bison](https://img.shields.io/badge/Bison-%23009900.svg?style=for-the-badge)<b>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
+![Toy Language](https://img.shields.io/badge/Toy%20Language-%23CC0000.svg?style=for-the-badge)<br>
+![GCC](https://img.shields.io/badge/GCC-%23666.svg?style=for-the-badge&logo=gnu&logoColor=white)<br>
+![Lex](https://img.shields.io/badge/Lex-%23FF8800.svg?style=for-the-badge)<br>
+![Bison](https://img.shields.io/badge/Bison-%23009900.svg?style=for-the-badge)<br>
 
 
  </details>
