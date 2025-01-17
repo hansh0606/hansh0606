@@ -21,7 +21,7 @@
 
 <blockquote>
   <h3>🧑‍💻 Current Status</h3>
-  <p>Setting sail on an exhilarating journey through the dynamic realm of computer science, I've unearthed my passion for problem-solving, armed with expertise in C++. Now, I'm eager to delve deeper into web development and uncover the captivating realm of MERN (MongoDB, Express.js, React.js, Node.js). Join me as we navigate this exciting odyssey together!</p>
+  <p>Hi there! I'm a passionate tech enthusiast with a knack for solving real-time problems. Always eager to learn and explore new technologies, I'm currently honing my skills at Eclat Engineering, where I'm excited to make a meaningful impact.</p>
 </blockquote>
 
 | <img alt="hansh0606's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hansh0606&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/> | <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=hansh0606&theme=dark&hide_border=true"/> |
